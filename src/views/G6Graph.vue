@@ -80,7 +80,7 @@ export default {
         //   source: '0',
         //   target: '1',
         //   labels: '1',
-        //   typest: 0
+        //   typest: 0,
         // },
         {
           source: '0',
